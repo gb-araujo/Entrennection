@@ -1,0 +1,23 @@
+.circulo{
+    border-radius: 50% !important;
+    width: 72px !important;
+    height: 72px !important;
+    object-fit: cover !important;
+}
+
+.font-nome{
+    font-family: "Roboto";
+    font-weight:700;
+}
+
+.font-empresa{
+    font-family: "Roboto";
+    font-weight:500;
+    font-size: 12px;
+}
+
+.font-bio{
+    font-family: "Roboto";
+    font-weight:400;
+    font-size: 12px;
+}

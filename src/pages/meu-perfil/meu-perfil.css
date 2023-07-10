@@ -1,0 +1,87 @@
+
+
+.meuPerfil {
+    height: 100%;
+    padding-top: 50px; 
+}
+
+
+
+.Banner {
+    height: 20vh;
+    width: auto;
+    background-color: rgb(255, 255, 255);
+}
+
+.FotoPerfil{
+    cursor: pointer;
+    position: absolute;
+    border-radius: 100px;
+    height: 20vh;
+    width: 10vw;
+    background-color: black;
+    margin-left: 8.5%;
+    margin-top: 5%;
+    transition: all 1s;
+}
+
+.BackgroundFundo{
+    margin: 0 auto;
+    margin-top: 6.5%;
+    border-radius: 2px;
+    height: 93vh;
+    width: 70vw;
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+    background-color: #ffffff;
+}
+
+.TextosPerfil{
+    margin-left: 3%;
+    width: 50%;
+    align-content: flex-start;
+}
+
+.NomePerfil p{
+    color: black;
+    margin: 0;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.Produto p{
+    margin: 0;
+    font-size: 20px;
+    font-weight: bold;
+    color: #cccccc;
+}
+
+.DescricaoPerfil{
+    color: #cccccc;
+    font-size: 20px;
+}
+
+.Conexões{
+    margin-top: 3%;
+    margin-left: 3%;
+    width: 94%;
+}
+
+.Conexões p {
+    margin: 0 0 2% 0;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.Postagens{
+    padding-top: 2%;
+    margin-left: 3%;
+    width: 94%;
+}
+
+.Postagens p{
+    margin: 0;
+    font-size: 20px;
+    font-weight: bold;
+}
+

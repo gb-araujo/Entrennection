@@ -1,0 +1,39 @@
+.Cardmentor{
+    text-align: center;
+}
+
+.redondo{
+    border-radius: 50% !important;
+    width: 86px !important;
+    height: 86px !important;
+    object-fit: cover !important;
+}
+
+.font-nome{
+    font-family: "Roboto";
+    font-weight:700;
+}
+
+.font-descricao{
+    font-family: "Roboto";
+    font-weight:500;
+    font-size: 12px;
+}
+
+.botao-agendar {
+    /* width: 30%; */
+    background-color: #00436C !important;
+    border: none !important;
+  } 
+  
+  .botao-agendar:hover {
+    background-color: #0077ffd3 !important;
+  }
+  
+   .botao-agendar p {
+    color: #FFFFFF;
+    font-size: 15px;
+    font-weight: bolder;
+    padding: 10px;
+    margin: auto;
+  }

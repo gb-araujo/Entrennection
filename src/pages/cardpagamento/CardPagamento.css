@@ -1,0 +1,70 @@
+.Cards{
+  display: flex;
+  flex-wrap: wrap;
+  gap: 5rem;
+  margin-top: 4rem;
+}
+
+.texttitulo{
+  color: #023859 !important;
+  text-align: center;
+  font-family: 'Roboto' !important;
+  font-weight: 900 !important;
+  font-size: 35px !important;
+}
+
+.textPreco p{
+  color: #023859;
+  font-family: 'Roboto' !important;
+  font-weight: 300;
+  font-style: italic;
+  text-align: center;
+  font-size: 16px !important;
+}
+
+.TextAzul{
+  font-family: 'Roboto' !important;
+  color: #3482AE;
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.TextCinza{
+  color: rgb(80, 80, 80) ;
+
+}
+
+.PrecoGrande{
+  color: rgb(80, 80, 80);
+  font-weight: bold;
+  font-size: 30px;
+}
+
+.PrecoGrandeDois{
+  margin-top: 1.1rem;
+  margin-bottom: 1.4rem;
+  color: rgb(80, 80, 80);
+  font-weight: bold;
+  font-size: 30px;
+}
+
+.Assine{
+width: 100%;
+font-family: "Roboto"!important;
+font-weight: 600 !important;
+background-color: #0C66B9 !important;
+border: none !important;
+}
+
+.tamanhocard{
+  width: 65% !important;
+}
+
+@media (max-width:992px) {
+  .tamanhocard{
+      width: 80% !important;
+  }
+}
+
+
+

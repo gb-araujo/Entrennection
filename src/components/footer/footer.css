@@ -1,0 +1,32 @@
+.page-footer{
+    background-color: rgb(2, 56, 89);
+}
+
+.text-footer{
+    color: white;
+}
+
+.text-h5{
+    color: white;
+}
+
+.list-unstyled a{
+    color: white;
+    width:40px;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+    border:1px white solid;
+}
+
+.list-unstyled a:hover{
+    color: #ced4da;
+}
+
+.footer-copyright{
+    color:white
+}
+
+

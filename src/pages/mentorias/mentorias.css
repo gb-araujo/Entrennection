@@ -1,0 +1,178 @@
+.botao-mentoria {
+  /* width: 30%; */
+  background-color: #00436C !important;
+  border: none !important;
+}
+
+.botao-mentoria:hover {
+  background-color: #0077ffd3 !important;
+}
+
+.botao-mentoria p {
+  color: #FFFFFF;
+  font-size: 20px;
+  font-weight: bolder;
+  padding: 10px;
+  margin: auto;
+}
+
+.textMentorias {
+  color: #023859;
+  font-size: 14px;
+  font-family: 'Roboto';
+  font-weight: 400;
+  /* font-weight: bold; */
+}
+
+.Mentorias{
+  height: 100vh !important;
+}
+
+.titulomentoria{
+  text-align: center;
+  color: #023859;  
+  font-family: "Roboto";
+  font-weight: 700;
+}
+
+/* Agende-se já */
+
+.textMentorias {
+  color: #023859;
+  font-size: 14px;
+  font-family: 'Roboto';
+  font-weight: 400;
+}
+
+.agendar{
+  height: 100% !important;
+}
+
+@media (min-width:1024px) {
+  .cont-mentoria{
+    height: 100vh !important;
+  }
+}
+
+
+
+
+
+.containercal{
+  background-color: #023859 !important;
+  color: white !important;
+  margin-bottom: 16px;
+  /* width: 90% !important; */
+
+}
+
+.imgcalen{
+  border-radius: 50% !important;
+    width: 96px !important;
+    height: 96px !important;
+    object-fit: cover !important;
+    margin-top: 16px;
+}
+
+.letra{
+  font-family: "Roboto";
+  font-weight: bold;
+  font-size: 18px;
+}
+
+.containerhora{
+  width: 100% !important;
+  margin-bottom: 16px;
+}
+
+
+
+/* .Mentoria{
+  height: 100vh;
+} */
+
+.tituloM {
+    padding-top: 20px;
+    color: #023859;
+    text-align: center;
+    font-weight: bolder;
+}
+
+  
+  .timeslots {
+    background-color: #FFFFFF;
+    /* width: 30%;
+    height: 47vh; */
+    padding: 25px;
+    display: inline-block;
+    right: 0px;
+    margin-left: 0%;
+    align-items: center;
+    margin-top: 1rem;
+  }
+  
+  .timeslots div {
+    margin-bottom: 0.5rem;
+    padding: 0.3rem 1rem;
+    background-color: #76baff;
+    color: white;
+    border-radius: 0.3rem;
+    cursor: pointer;
+  }
+  
+  .timeslots div:hover {
+    opacity: 0.5;
+  }
+  
+  .button-calendar {
+    padding: 0.5rem 1rem;
+    background-color: #023859;
+    color: white;
+    border-radius: 0.3rem;
+    font-size: 1rem;
+    cursor: pointer;
+    border: none !important;
+  }
+  
+  .button-calendar:hover {
+    opacity: 0.5;
+  }
+
+  /* Pagamento */
+
+  .titulocompra{
+    text-align: center;
+    color: #2196F3;  
+    font-family: "Roboto";
+    font-weight: 700;
+  }
+
+  .textparabens{
+    padding-left: 5%;
+    padding-right: 5%;
+    font-size: 16px;
+    font-family: 'Roboto';
+    font-weight: 400;
+  }
+
+  .botao-pagamento {
+    /* width: 30%; */
+    background-color: #0C66B9 !important;
+    border: none !important;
+  }
+  
+  .botao-pagamento:hover {
+    background-color: #0077ffd3 !important;
+  }
+  
+  .botao-pagamento p {
+    color: #FFFFFF;
+    font-size: 20px;
+    font-weight: bolder;
+    padding: 10px;
+    margin: auto;
+  }
+ 
+  .icone-verificado{
+    padding-top: 12%;
+  }

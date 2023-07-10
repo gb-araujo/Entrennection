@@ -1,0 +1,313 @@
+.Home{
+  /* display: flex; */
+  height: 100% !important;
+
+}
+
+.Feed {
+
+    height: 100%;
+    /* padding-left: 20%; */
+
+    /* padding-left: 20%; */
+
+    /* padding-left: 20%; */
+
+    width: 100% !important;
+    /* justify-content: center; */
+    /* height: 100vh !important; */
+    /* background-color: green; */
+}
+
+.FacaPub {
+    background-color: rgb(255, 255, 255);
+    height: 140px;
+    width: 55%;
+    border-radius: 3px;
+
+    width: 75%;
+    /* height: 15%; */
+    border-radius: 8px;
+    width: 75%;
+    /* height: 15%; */
+    border-radius: 8px;
+}
+
+.post-home{
+    width: 75%;
+}
+
+
+.ConteudoPerfil{
+    /* padding-top: 5%;
+    padding-left: 5%; */
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+
+.fotoPerfil2{
+    cursor: pointer;
+}
+
+.TextoPub{
+    padding-top: 5%;
+    padding-left: 2%;
+}
+
+.Publicacao {
+    margin-top: 1%;
+    background-color: pink;
+    width: 55%;
+    border-radius: 3px;
+}
+
+.parteCima {
+    padding-left: 3%;
+    padding-top: 3%;
+    display: flex;
+}
+.nomesPerfil {
+    display: flex;
+}
+
+.nomePerfil p{
+    cursor: pointer;
+    width: 100%;
+    margin-top: 13%;
+    margin-left: 10%;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.nomePerfil p:hover{
+    color: #585858;
+}
+
+
+.areaAPerfil p {
+    margin-left: 40%;
+    margin-top: 30%;
+    color: grey;
+}
+
+.areaAPerfil p:hover{
+    color:black;
+    text-decoration:underline;
+}
+
+.TituloPubli {
+    align-items: flex-start;
+    text-align: left;
+    margin-top: 2%;
+    margin-left: 3%;
+}
+
+.BtnsBaixo{
+    display: grid;
+    grid-auto-flow: column;
+    justify-content: initial;
+    column-gap: var(--spacing-half-x);
+    padding: 0.4rem 1.2rem;
+    text-align: center;
+    box-sizing: border-box;
+    margin: 0;
+    min-height: 40px;
+}
+
+.Gostei{
+    display: flex;
+}
+
+
+.Gostei button{
+    background-color: white;
+    color: black;
+    font-weight: bold;
+    display: flex;
+}
+
+.iconeLike{
+    font-size: 18px;
+}
+
+.Gostei button:hover {
+    background-color: #d9d9d9;
+    border: 5px;
+}
+
+.Comentar button{
+    background-color: white;
+    color: black;
+    font-weight: bold;
+}
+
+.iconeComentar{
+    font-size: 18px;
+}
+
+.Comentar button:hover{
+    background-color: #d9d9d9;
+    border: 5px;
+}
+
+.Compartilhar button{
+    background-color: white;
+    color: black;
+    font-weight: bold;
+}
+
+.iconeCompartilhar{
+    font-size: 18px;
+}
+
+.Compartilhar button:hover{
+    background-color: #d9d9d9;
+    border: 5px;
+}
+
+.Enviar button{
+    background-color: white;
+    color: black;
+    font-weight: bold;
+}
+
+.iconeEnviar{
+    font-size: 18px;
+}
+
+.Enviar button:hover{
+    background-color: #d9d9d9;
+    border: 5px;
+}
+
+
+.CaixaFeedback{
+    padding-top: 1%;
+    display: flex;
+    align-items: baseline;
+    gap: 2%;
+}
+
+.adicioneComentario{
+    display: flex;
+    align-items: baseline;
+}
+
+.fotoPerfilComentario{
+    padding-left: 3%;
+    cursor: pointer;
+}
+
+.adicioneComentario{
+    gap: 2%;
+}
+
+.adicioneComentario input {
+    border-color:#d9d9d9;
+    border-radius: 10px;
+}
+
+.enviarComentario {
+    font-size: 25px;
+    cursor: pointer;
+}
+
+.enviarComentario:hover{
+    color: #585858;
+}
+
+.addReacao{
+    font-size: 25px;
+    cursor: pointer;
+}
+
+.addReacao:hover{
+    color: #585858;
+}
+
+.Trending{
+    /* margin-left: auto;
+    float: right; */
+    /* background-color: #023859; */
+    /* height: 100%; */
+    width: 100%;
+    transition: 1.1s;
+}
+
+.Trending:hover{
+    /* float: right; */
+    background-color: #023859 !important;
+    /* height: 100vh; */
+    width: 100%;
+}
+
+.Noticias{
+    padding-top: 2.2rem;
+    padding-bottom: 1rem;
+    color: white;
+    text-align: center;
+    font-weight: bold;
+}
+
+.CardsNoticiais {
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+}
+
+.Noticia1, .Noticia2, .Noticia3, .Noticia4 {
+    margin: 0 auto;
+    height: 180px;
+    width: 130px;
+    background-color: white;
+    transition: 1.1s;
+}
+
+.Noticia1, .Noticia2, .Noticia3, .Noticia4 p {
+    text-align: center;
+}
+
+.Noticia1:hover {
+    background-color: #d9d9d9;
+    width: 200px;
+}
+
+.Noticia2:hover {
+    background-color: #d9d9d9;
+    width: 200px;
+}
+
+.Noticia3:hover {
+    background-color: #d9d9d9;
+    width: 200px;
+}
+
+.Noticia4:hover {
+    background-color: #d9d9d9;
+    width: 200px;
+}
+
+
+
+@media (max-width:768px) {
+    .FacaPub{
+        width: 95%;
+        /* padding-left: 16px;
+        padding-right: 16px; */
+    }
+    .post-home{
+        width: 100%;
+        padding-left: 16px;
+        padding-right: 16px;
+    }
+}
+
+
+@Media (max-width:426px) {
+    .icon-react{
+        font-size:11px ;
+    }
+}
+
+

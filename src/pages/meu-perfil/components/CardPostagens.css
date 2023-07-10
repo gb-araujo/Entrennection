@@ -1,0 +1,21 @@
+.quadrado{
+    cursor: pointer;
+}
+
+.quadrado:hover{
+    opacity: 90%;
+}
+
+.font-sobrenome{
+    font-family: "Roboto";
+    font-weight:700;
+    text-align: center;
+}
+
+.font-desc{
+    font-family: "Roboto";
+    text-align: initial;
+    font-weight:500 !important;
+    font-size: 18px !important;
+    color: grey;
+}
