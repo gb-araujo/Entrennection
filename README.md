@@ -73,7 +73,7 @@
 Este projeto é resultado da colaboração de 8 integrantes, que se uniram para criar uma solução voltada para os microempreendedores. 
 Caso queira conhecer os integrantes, acesse nossos links: 
 <br>
-<a href="https://linktr.ee/entrennection" target="_blank" rel="noreferrer">Linktr.ee</a> 
+<a href="https://linktr.ee/" target="_blank" rel="noreferrer">Linktr.ee</a> 
 
 
 <h2 aling="center">Licença</h2>
