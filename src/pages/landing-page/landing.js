@@ -122,7 +122,7 @@ function Landing(props) {
                         <p>Contando sobre a plataforma</p>
                     </div>
                     <div className='video align-self-center'>
-                        <iframe src="https://www.youtube.com/embed/FDXS_vWk_JI" className='iframe-video' frameBorder="0" allow="autoplay; fullscreen; picture-in-picture" allowFullScreen></iframe>
+                        <iframe src="#" className='iframe-video' frameBorder="0" allow="autoplay; fullscreen; picture-in-picture" allowFullScreen></iframe>
                     </div>
                     <br/><br/>
                     <br/><br/>
